@@ -42,12 +42,6 @@ To set up and run the website locally, follow these steps:
 
 Feel free to modify the content in `src/index.html`, adjust styles in `src/style.css`, and add any necessary JavaScript functionality in `src/scripts/main.js` to personalize the website further.
 
-## How to Deploy on GitHub Pages
-
-1. Push this repository to GitHub under the name "mahadali05.github.io".
-2. In your GitHub settings, enable Pages from the main branch.
-3. Your site should then be available at https://mahadali05.github.io.
-
 ## Disclaimer
 
 This website was created with the assistance of AI.
