@@ -6,12 +6,12 @@ This is a simple one-page personal website designed to showcase personal brandin
 
 ```
 Personal-Website
-├── src
-│   ├── index.html        # Main HTML document for the personal website
-│   ├── style.css         # CSS styles for the website
-│   └── scripts
-│       └── main.js       # JavaScript for interactivity
-└── README.md             # Project overview and instructions
+└── src
+    ├── index.html        # Main HTML document for the personal website
+    ├── style.css         # CSS styles for the website
+    └── scripts
+        └── main.js       # JavaScript for interactivity
+    └───── README.md             # Project overview and instructions
 ```
 
 ## Features
@@ -41,6 +41,12 @@ To set up and run the website locally, follow these steps:
 ## Customization
 
 Feel free to modify the content in `src/index.html`, adjust styles in `src/style.css`, and add any necessary JavaScript functionality in `src/scripts/main.js` to personalize the website further.
+
+## How to Deploy on GitHub Pages
+
+1. Push this repository to GitHub under the name "mahadali05.github.io".
+2. In your GitHub settings, enable Pages from the main branch.
+3. Your site should then be available at https://mahadali05.github.io.
 
 ## Disclaimer
 
